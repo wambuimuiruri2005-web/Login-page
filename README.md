@@ -8,8 +8,8 @@ A login page used to demonstrate python in making desktop applications.Using the
 Python
 Tkinter
 ## Screenshots
+<img src="Capture.jpg" width="500px">
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
 
 
 ## Features
